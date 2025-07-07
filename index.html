@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Blog</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="technology.css" />
+</head>
+<body>
+
+  <header class="navbar">
+  <div class="container">
+    <div class="logo">
+      <span class="logo-first">Salman</span><span class="logo-last">Ahmad</span>
+    </div>
+    <div class="nav-toggle" id="navToggle">&#9776;</div>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="categories.html">Categories</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="privacy-policy.html">Privacy Policy</a></li>
+      <li><a href="terms.html">Terms</a></li>
+    </ul>
+  </div>
+</header>
+
+
+  <main class="main-content">
+    <section class="hero">
+      <h1>Welcome to My Blog website</h1>
+      <p>Explore quality articles on technology, lifestyle, and more.</p>
+    </section>
+  </main>
+
+  <!-- ADDING RECOMMENDED BLOGS. -->
+  <section class="recommended-section">
+  <div class="container">
+    <h2 style="text-align: center;">Recommended Blogs</h2>
+    <div class="recommended-grid">
+      <!-- Blog Post 1 -->
+      <div class="recommended-card">
+        <img src="images/technology/how ai is changing the world.png" alt="AI Blog" />
+        <h3>How AI Is Changing Our World</h3>
+        <p>Explore how artificial intelligence is reshaping every aspect of our daily lives.</p>
+        <a href="blog-post-1.html" class="read-more">Read More</a>
+      </div>
+
+      <!-- Blog Post 2 -->
+      <div class="recommended-card">
+        <img src="images/technology/top ten programming languages.png" alt="Programming Blog" />
+        <h3>Top 10 Programming Languages in 2025</h3>
+        <p>Discover which languages are dominating the tech landscape and why you should learn them.</p>
+        <a href="blog-post-2.html" class="read-more">Read More</a>
+      </div>
+
+      <!-- Blog Post 3 -->
+      <div class="recommended-card">
+        <img src="images/technology/how ai is changing the world.png" alt="Programming Blog" />
+        <h3>Top 10 Programming Languages in 2025</h3>
+        <p>Discover which languages are dominating the tech landscape and why you should learn them.</p>
+        <a href="blog-post-2.html" class="read-more">Read More</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+  <footer>
+    <p>&copy; 2025 MyBlog. All rights reserved.</p>
+  </footer>
+
+  <script>
+    document.getElementById("navToggle").addEventListener("click", function () {
+      document.getElementById("navLinks").classList.toggle("show");
+    });
+  </script>
+</body>
+</html>

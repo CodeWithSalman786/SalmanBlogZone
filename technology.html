@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Technology - Salman Ahmad Blog</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="technology.css" />
+</head>
+<body>
+
+  <header class="navbar">
+  <div class="container">
+    <div class="logo">
+      <span class="logo-first">Salman</span><span class="logo-last">Ahmad</span>
+    </div>
+    <div class="nav-toggle" id="navToggle">&#9776;</div>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="categories.html">Categories</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="privacy-policy.html">Privacy Policy</a></li>
+      <li><a href="terms.html">Terms</a></li>
+    </ul>
+  </div>
+</header>
+
+  <main class="main-content">
+    <section class="tech-hero">
+      <h1>Technology Blogs</h1>
+      <p>Latest trends, tutorials, and insights in the tech world.</p>
+    </section>
+
+    <section class="tech-posts">
+      <div class="post-card">
+        <a href="blog-post-1.html">
+          <img src="images/technology/how ai is changing the world.png" alt="Error in loading image" />
+          <h2>How AI is Changing Our World</h2>
+          <p>Discover the impact of artificial intelligence in modern life.</p>
+        </a>
+      </div>
+
+      <div class="post-card">
+        <a href="blog-post-2.html">
+          <img src="images/technology/top ten programming languages.png" alt="Error in loading image" />
+          <h2>Top 10 Programming Languages in 2025</h2>
+          <p>Explore the most in-demand programming languages this year.</p>
+        </a>
+      </div>
+
+      <!-- Add more post cards as needed -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Salman Ahmad. All rights reserved.</p>
+  </footer>
+
+  <script>
+    document.getElementById("navToggle").addEventListener("click", function () {
+      document.getElementById("navLinks").classList.toggle("show");
+    });
+  </script>
+
+</body>
+</html>
