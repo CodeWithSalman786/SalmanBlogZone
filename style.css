@@ -57,9 +57,13 @@ main.main-content {
 main,
 .hero-section,
 .post-container,
-.categories-grid,
-.recommended-section {
+.categories-grid
+{
   margin-top: 50px; /* Adjust based on your navbar height */
+}
+
+.recommended-section {
+  margin-top: 0px; /* Adjust based on your navbar height */
 }
 
 .container {
@@ -173,7 +177,7 @@ footer {
 .post-container {
   max-width: 800px;
   margin: 8rem auto;
-  padding: 1rem;
+  padding: 2rem;
   background: #fff;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
