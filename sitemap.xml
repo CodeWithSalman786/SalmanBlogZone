@@ -1,30 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://salmanblogzone.com/</loc>
+    <loc>https://salmanblogs.com/</loc>
   </url>
   <url>
-    <loc>https://salmanblogzone.com/categories.html</loc>
+    <loc>https://salmanblogs.com/categories.html</loc>
   </url>
   <url>
-    <loc>https://salmanblogzone.com/about.html</loc>
+    <loc>https://salmanblogs.com/about.html</loc>
   </url>
   <url>
-    <loc>https://salmanblogzone.com/contact.html</loc>
+    <loc>https://salmanblogs.com/contact.html</loc>
+  </url>
+
+  <!-- Category Pages -->
+  <url>
+    <loc>https://salmanblogs.com/technology.html</loc>
   </url>
   <url>
-    <loc>https://salmanblogzone.com/technology.html</loc>
+    <loc>https://salmanblogs.com/lifestyle.html</loc>
   </url>
   <url>
-    <loc>https://salmanblogzone.com/blog-post-1.html</loc>
+    <loc>https://salmanblogs.com/health.html</loc>
   </url>
   <url>
-    <loc>https://salmanblogzone.com/blog-post-2.html</loc>
+    <loc>https://salmanblogs.com/education.html</loc>
   </url>
   <url>
-    <loc>https://salmanblogzone.com/privacy-policy.html</loc>
+    <loc>https://salmanblogs.com/business.html</loc>
   </url>
   <url>
-    <loc>https://salmanblogzone.com/terms.html</loc>
+    <loc>https://salmanblogs.com/travel.html</loc>
+  </url>
+
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://salmanblogs.com/How AI Is Changing Our World: A Deep Dive into the Future.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Top 10 Programming Languages in 2025.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/How AI Will Replace and Create Jobs by 2030.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/10 Daily Habits.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/How to Build a Morning Routine.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Boost Your Immune System.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Why Sleep Is Your Superpower.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Top 10 Health Trends in 2025 .html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Top 10 Business Trends.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/How AI Is Transforming Small Businesses.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/The Future of Remote Work.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Top 10 Must-Visit Travel Destinations.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/How AI-Powered Travel Apps.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Best Budget-Friendly Travel Destinations.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Best Online Courses for High-Paying Jobs.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Top Websites to Learn Coding for Free.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/Online Learning.html</loc>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://salmanblogs.com/privacy-policy.html</loc>
+  </url>
+  <url>
+    <loc>https://salmanblogs.com/terms.html</loc>
   </url>
 </urlset>
